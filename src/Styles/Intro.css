@@ -1,0 +1,12 @@
+.intro
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+p
+{
+    color: white;
+    font-size: larger;
+}

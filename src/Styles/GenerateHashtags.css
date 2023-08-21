@@ -1,0 +1,26 @@
+.generateButtonContainer
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.buttonContainer
+{
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px;
+}
+
+.generateButton
+{
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    font-weight: 200;
+    text-align: center;
+    background-color: #DF3A2F;
+    color: white; 
+}
