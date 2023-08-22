@@ -2,4 +2,6 @@
   background-color: #192A49;
   height: 100%;
   text-align: center;
+  min-height: calc(100vh - 60px);
+  margin: 0;
 }

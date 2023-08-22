@@ -5,7 +5,7 @@ function GenerateHashtags()
     return( 
         <div className="generateButtonContainer">
             <div className="buttonContainer">
-                <button className="generateButton"><i class='fa fa-cog'></i> Generate Hashtag</button>
+                <button className="generateButton"><i className='fa fa-cog'></i> Generate Hashtag</button>
             </div>
         </div>
     );
