@@ -8,8 +8,8 @@ import Results from './Components/Results';
 import TopPostContainer from './Components/TopPostContainer';
 import TopPostTitle from './Components/TopPostTitle';
 
-
 function App() {
+  
   return (
     <div>
       <div className='App'>
